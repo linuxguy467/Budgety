@@ -1,2 +1,1 @@
-# budgety
-JavaScript budget app
+# Budgety
